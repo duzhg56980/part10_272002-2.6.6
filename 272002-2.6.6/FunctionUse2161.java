@@ -1,0 +1,6 @@
+import com.alibaba.dubbo.config.ProviderConfig;
+public class FunctionUse2161 {
+public void funcUse() {
+ProviderConfig providerconfig = new ProviderConfig();
+}
+}
